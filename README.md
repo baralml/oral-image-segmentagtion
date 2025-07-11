@@ -41,7 +41,7 @@ Git & GitHub, Jupyter, Streamlit, Gradio
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sabarno-baral)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sabarno-baral-92961366/)  
 - 🧠 Personal Website (coming soon)  
 - ✉️ Email: sabarnobaral[at]gmail[dot]com
 
